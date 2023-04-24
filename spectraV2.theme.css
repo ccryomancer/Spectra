@@ -40,7 +40,7 @@
   --gradientangle: 45deg;
   --dmvoicebgcolor: var(--color-6);
   /* blurple color */
-  --accentcolor: 253, 214, 81;
+  --accentcolor: 255, 255, 255;
    /*Roundite*/
   --roundness: 15px;
  }
